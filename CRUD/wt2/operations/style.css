@@ -1,0 +1,44 @@
+
+.header {
+  overflow: hidden;
+  background-color: black;
+  color: white;
+  text-align:center;
+ //padding: 20px 10px;
+}
+
+
+table {
+  border-collapse: collapse;
+
+}
+th, td {
+  padding: 10px;
+  text-align: left;
+  width:140px;
+
+}
+input[type=text]
+{
+  width:140px;
+}
+table, th, td {
+  border: 1px solid black;
+}
+
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+
+
+
+
+
